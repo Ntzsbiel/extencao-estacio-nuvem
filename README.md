@@ -1,4 +1,4 @@
-# 🎤 Modernização do Karaokê com Understar Karaoke
+# 🎤 Modernização do Karaokê com Ultrastar Karaoke
 
 ## 📋 Descrição do Projeto
 
